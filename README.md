@@ -17,7 +17,11 @@ groups, 1.1 GB recoverable:**
 
 **Fresh start** | **Theme gallery (16 themes + options)**
 
-![Fresh start](preview.png) ![Themes tab](preview2.png)
+![Fresh start](preview.png) 
+
+**Themes**
+
+![Themes tab](preview2.png)
 
 **Built-in analog clock (12-hour, smooth second hand)**
 
