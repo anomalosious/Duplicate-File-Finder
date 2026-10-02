@@ -1,0 +1,1 @@
+harmless ClamAV integration test sample

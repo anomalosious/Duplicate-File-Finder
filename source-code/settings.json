@@ -1,0 +1,10 @@
+{
+  "theme": "Windows Dark",
+  "font": "M",
+  "zebra": true,
+  "titlebar": true,
+  "smooth": true,
+  "date": true,
+  "topmost": false,
+  "accent": null
+}
