@@ -247,4 +247,3 @@ still found; files that merely have the same name are not.
 | `clamav/` | ClamAV 1.5.4 engine files and compact runtime archive; keep beside `source-code/` |
 | `preview.png` … `preview24.png` | Current screenshots (25) |
 | `old previews/` | Older screenshots from before Cleaner and Security were added |
-| `standalone-scanner/` | Isolated YARA prototype, not used by the desktop app |
